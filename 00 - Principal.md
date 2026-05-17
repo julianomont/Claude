@@ -18,6 +18,8 @@
 | [[08 - Modos de Permissão]] | `--permission-mode` | Controlar o que o Claude pode fazer |
 | [[09 - Exemplos Práticos de Skills]] | cenários reais por skill | Ver como cada skill se aplica no dia a dia |
 | [[10 - Como Criar Skills]] | SKILL.md, frontmatter, description, skill-creator | Criar suas próprias skills personalizadas |
+| [[11 - Configurando Permissões e Autonomia]] | settings.json, allowlist, modos, auto-allow | Eliminar prompts desnecessários |
+| [[12 - Plugins e MCP para Desenvolvimento]] | Context7, GitHub, Postgres, Playwright, Firebase | Conectar Claude a ferramentas externas |
 
 ---
 
@@ -64,7 +66,9 @@ Claude/
 ├── 07 - Atalhos de Teclado.md
 ├── 08 - Modos de Permissão.md
 ├── 09 - Exemplos Práticos de Skills.md
-└── 10 - Como Criar Skills.md
+├── 10 - Como Criar Skills.md
+├── 11 - Configurando Permissões e Autonomia.md
+└── 12 - Plugins e MCP para Desenvolvimento.md
 ```
 
 ---
