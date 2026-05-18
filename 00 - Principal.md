@@ -20,6 +20,7 @@
 | [[10 - Como Criar Skills]] | SKILL.md, frontmatter, description, skill-creator | Criar suas próprias skills personalizadas |
 | [[11 - Configurando Permissões e Autonomia]] | settings.json, allowlist, modos, auto-allow | Eliminar prompts desnecessários |
 | [[12 - Plugins e MCP para Desenvolvimento]] | Context7, GitHub, Postgres, Playwright, Firebase | Conectar Claude a ferramentas externas |
+| [[13 - MCPs Detalhados com Exemplos]] | exemplos reais por MCP, fluxos combinados | Referência aprofundada com casos de uso |
 
 ---
 
@@ -68,7 +69,8 @@ Claude/
 ├── 09 - Exemplos Práticos de Skills.md
 ├── 10 - Como Criar Skills.md
 ├── 11 - Configurando Permissões e Autonomia.md
-└── 12 - Plugins e MCP para Desenvolvimento.md
+├── 12 - Plugins e MCP para Desenvolvimento.md
+└── 13 - MCPs Detalhados com Exemplos.md
 ```
 
 ---
